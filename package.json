@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-casting-modes",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "List of ndarray casting modes.",
   "license": "Apache-2.0",
   "author": {
