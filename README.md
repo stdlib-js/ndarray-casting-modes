@@ -52,13 +52,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import modes from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-casting-modes@esm/index.mjs';
+import modes from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-casting-modes@v0.1.0-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { enum } from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-casting-modes@esm/index.mjs';
+import { enum } from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-casting-modes@v0.1.0-esm/index.mjs';
 ```
 
 #### modes()
@@ -105,7 +105,7 @@ The output `array` contains the following modes:
 <script type="module">
 
 import indexOf from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-index-of@esm/index.mjs';
-import modes from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-casting-modes@esm/index.mjs';
+import modes from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-casting-modes@v0.1.0-esm/index.mjs';
 
 var MODES = modes();
 var bool;
