@@ -2,6 +2,41 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-05-19)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`d002f3a`](https://github.com/stdlib-js/stdlib/commit/d002f3ae7d4f785a0d0d8c4c9f3b383776deea15) - **bench:** fix condition _(by Athan Reines)_
+-   [`468d6f7`](https://github.com/stdlib-js/stdlib/commit/468d6f7247367a32f73738a0cf7dfda28126eac2) - **bench:** fix assertion _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
